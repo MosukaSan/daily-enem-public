@@ -1,23 +1,16 @@
 <h1 align="center">Daily Enem</h1>
-<p align="center">[ Front-End Server ]</p>
 
-- [Information](#information)
-    - [Host](#host)
-    - [Domain](#domain)
-    - [URL](#url)
+![](https://img.shields.io/badge/license-GPLv2-orange.svg)
+![](https://tokei.rs/b1/github/MosukaSan/daily-enem-public?category=code)
+
+- [About](#about)
 - [Installation](#instalation)
 - [Technologies Used](#technologies-used)
 
-## Information
-### Host: 
-- [Railway](https://railway.com/)
+## About
+This project was created to help Brazilian students practice answering questions from the Exame Nacional do Ensino Médio (ENEM) to gain admission to a variety of universities.
 
-### Domain:
-- dailyenem.xyz (GoDaddy)
-
-### URL:
-- https://dailyenem.xyz
-- https://www.dailyenem.xyz
+**This is not the project on production!**
 
 ## Instalation
 - Clone this repository;
