@@ -1,7 +1,6 @@
 <h1 align="center">Daily Enem</h1>
 
 ![](https://img.shields.io/badge/license-GPLv2-orange.svg)
-![](https://tokei.rs/b1/github/MosukaSan/daily-enem-public?category=code)
 
 - [About](#about)
 - [Installation](#instalation)
